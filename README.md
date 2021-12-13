@@ -1,1 +1,1 @@
-# https://ADziakon.github.io/rsschool-cv/c
+# https://ADziakon.github.io/rsschool-cv/cv

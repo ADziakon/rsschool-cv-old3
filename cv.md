@@ -9,12 +9,14 @@ Telegram: @OksyPS \
 Facebook: [https://www.facebook.com/aksana.peshka] \
 LinkedIn: [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/] --->
 
-| :-----------|:-------------------------------------------------------------------|
-| Discord     | Aksana Dziakanchuk (@adziakon)                                     |
-| E-mail      | a.dziakanchuk@gmail.com                                            |
-| Telegram    | @OksyPS                                                            |
-| Facebook    | [https://www.facebook.com/aksana.peshka                            |
-| LinkedIn    | [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/]         |
+
+| :---        | :---                                                       |
+| Discord     | Aksana Dziakanchuk (@adziakon)                             |
+| E-mail      | a.dziakanchuk@gmail.com                                    |
+| Telegram    | @OksyPS                                                    |
+| Facebook    | [https://www.facebook.com/aksana.peshka                    |
+| LinkedIn    | [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/] |
+
 
 
 ## About me

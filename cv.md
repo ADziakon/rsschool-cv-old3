@@ -9,12 +9,14 @@ Telegram: @OksyPS \
 Facebook: [https://www.facebook.com/aksana.peshka] \
 LinkedIn: [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/]
 
+| Discord     | Aksana Dziakanchuk (@adziakon)                                     |
 |-------------| -------------------------------------------------------------------|
 | Discord     | Aksana Dziakanchuk (@adziakon)                                     |
-| E-mail      | a.dziakanchuk@gmail.com                                            | 
+| E-mail      | a.dziakanchuk@gmail.com                                            |
 | Telegram    | @OksyPS                                                            |
 | Facebook    | [https://www.facebook.com/aksana.peshka                            |
 | LinkedIn    | [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/]         |
+
 
 ## About me
 I am system analyst with 5 years of experience in banking sector.Graduated from Belarusian State University of Informatics and Radioelectronics with a Degree in software engineering. I am a punctual and motivated individual who is able to work in a busy environment, and produce high standarts of work.\

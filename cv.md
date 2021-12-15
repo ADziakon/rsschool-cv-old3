@@ -14,9 +14,9 @@ LinkedIn: [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/] --->
 | :---        | :---                                                       |
 | Discord     | Aksana Dziakanchuk (@adziakon)                             |
 | E-mail      | a.dziakanchuk@gmail.com                                    |
-| Telegram    | @OksyPS                                                    |
-| Facebook    | [https://www.facebook.com/aksana.peshka                    |
-| LinkedIn    | [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/] |
+| Telegram    | [@OksyPS](https://t.me/OksyPS)                                                    |
+| Facebook    | [Aksana Dziakanchuk](https://www.facebook.com/aksana.peshka)                    |
+| LinkedIn    | [Aksana Dziakanchuk](https://www.linkedin.com/in/aksana-dziakanchuk-54329386/) |
 
 
 
@@ -59,4 +59,4 @@ END.
 * Polish В1, september 2017 – february 2018
 
 ## My Project
-1. GitHub CV [https://adziakon.github.io/rsschool-cv-old/]
+1. [GitHub CV](https://adziakon.github.io/rsschool-cv-old/)

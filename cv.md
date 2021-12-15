@@ -1,4 +1,4 @@
-![Альтернативный текст](/cv.jpg "CV-foto")
+![Aksana Dziakanchuk](cv.jpg "CV-foto")
 # Aksana Dziakanchuk
 
 ### Junior FrontEnd Developer

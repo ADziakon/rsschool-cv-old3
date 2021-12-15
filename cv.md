@@ -1,6 +1,7 @@
+![Альтернативный текст](/cv.jpg "CV-foto")
 # Aksana Dziakanchuk
 
-## Junior FrontEnd Developer
+### Junior FrontEnd Developer
 
 ## Contact information
 <!---Discord: Aksana Dziakanchuk (@adziakon) \

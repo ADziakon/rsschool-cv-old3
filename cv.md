@@ -1,4 +1,4 @@
-![Aksana Dziakanchuk](cv.jpg "CV-foto")
+![Aksana Dziakanchuk](my_foto.png "CV-foto")
 # Aksana Dziakanchuk
 
 ### Junior FrontEnd Developer
@@ -59,3 +59,4 @@ END.
 * Polish В1, september 2017 – february 2018
 
 ## My Project
+1. GitHub CV [https://adziakon.github.io/rsschool-cv-old/]

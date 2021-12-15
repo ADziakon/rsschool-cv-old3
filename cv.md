@@ -54,5 +54,7 @@ END.
 * SQL online course Sololearn [https://www.sololearn.com/certificates/course/en/21187612/1060/landscape/png]
 
 ## Languages
-* English - Intermediate, september 2018 – january 2019
+* English - Intermediate, september 2018 – january 2019  (I am currently studying at SkyEng to improve my language skills.)
 * Polish В1, september 2017 – february 2018
+
+## My Project

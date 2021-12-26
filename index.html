@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>CV Aksana Dziakanchuk</title>
+        <link href="style.css" rel="stylesheet">
+    </head>
+
+    <body>
+            <main  class = "main_container">
+                <!-- шапка-->
+                <header>
+                    <div class = "aplfoto"> <img src="./image/my_foto.png" alt = "Applicant's photo"></div>
+                    <div class = "applicant_name">
+                        <h1>Aksana Dziakanchuk</h1>
+                        <h3>Junior FrontEnd Developer</h3>
+                    </div>
+                    <!-- меню-->
+                    <nav class="menu">
+                        <ul class="social_network_head">
+                            <li><img src="./image/telegramm.png" alt="telegramm" width = "15" height="15">  @OksyPS </li>
+                            <li><img src="./image/facebook.png" alt="facebook" width = "15" height="15"> <a href="https://www.facebook.com/aksana.peshka"> Facebook </a></li>
+                            <li><img src="./image/link.png" alt="linkedin" width = "17" height="17"> <a href = "https://www.linkedin.com/in/aksana-dziakanchuk-54329386/"> LinkedIn </a></li>
+                        </ul>
+                    </nav>
+                </header>
+          
+        <article class = "main_information">  
+            <div class="left_side"> 
+                <section class = "contacts" itemscope itemtype="http://schema.org/Person">
+                    <h2>Contact information</h2>
+                    <address class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                        <img src="./image/location.png" alt="location" width = "15" height="21">
+                        <span itemprop="addressLocality">Minsk</span>,
+                        <span itemprop="addressRegion" title="Belarus">Belarus</span>
+                    </address>
+
+                    <ul class="social_network_contacts">
+                        <li><img src="./image/mail.png" alt="email" width = "20" height="20"> <a href="mailto:a.dziakanchuk@gmail.com"  class="mail">a.dziakanchuk@gmail.com</a></li>
+                        <li><img src="./image/tel.png" alt="telephone" width = "20" height="20"> +375 44 760 92 03</li>
+                        <li><img src="./image/telegramm.png" alt="telegramm" width = "20" height="20">  @OksyPS</li>
+                        <li><img src="./image/facebook.png" alt="facebook" width = "20" height="20"> <a href="https://www.facebook.com/aksana.peshka">Facebook  </a></li>
+                        <li><img src="./image/link.png" alt="linkedin" width = "25" height="25"> <a href = "https://www.linkedin.com/in/aksana-dziakanchuk-54329386/"> LinkedIn </a></li>
+                    </ul>
+                </section>
+
+                <section class="lang">
+                <h2>Languages</h2>
+                <ul class = "languages">    
+                    <li>English - A2 </li>
+                    <li>Polish - В1</li>
+                </ul>
+            </section>
+              <section class = "courses">
+                <h2>Course and Education</h2>
+                <ul class = "course">
+                    <li>BSUIR, Software engineer 2018-2020</li>
+                    <li>FrontEnd course 2013</li>
+                    <li>RS Schools Course «JavaScript/Front-end» (in progress)</li>
+                    <li><a href="https://www.sololearn.com/certificates/course/en/21187612/1060/landscape/png"> SQL online course Sololearn </a></li>
+                </ul>
+            </section>
+            </div> 
+
+            <div class="center_img">
+               <div class="separator">|</div>               
+            </div>
+
+           <div class ="right_side"> 
+                <h2>About me</h2>
+                <p>I am system analyst with 5 years of experience in banking sector.Graduated from Belarusian State University of Informatics
+                    and Radioelectronics with a Degree in software engineering. I am a punctual and motivated individual who is able to work in a busy environment.
+                and produce high standarts of work.</p>
+                <p>Now I want to change my work, and find new direction for myself. So I started to learn RS Schools Course.</p>
+                <h2>Skills</h2>
+                <ul class="skills">
+                    <li>HTML5, CSS3, JavaScript, PHP, OpenEdge ABL(Progress 4GL)</li>
+                    <li>SQL, MySQL</li>
+                    <li>SVN, GIT, GITHub</li>
+                    <li>VS Code</li>
+                </ul>
+                <h2>Experience</h2>
+                <p> System Analyst, February 2016 - Present, JSC Belgazprombank </p>
+                <p> Developer, May 2014 - December 2015, Biexpert</p>
+                
+                <h2>Code Example</h2>
+                <pre>
+                    <code>
+FOR EACH msg-impexp WHERE
+   msg-impexp.msg-cat EQ 'op' AND
+   msg-impexp.object-id EQ string(op.op) no-lock:
+   IF msg-impexp.msg-type BEGINS 'iID' THEN DO:
+     IF msg-impexp.msg-type BEGINS 'IBN' THEN NEXT.
+     mMesImp = msg-impexp.msg-type + msg-impexp.msg-text.
+   END.
+END.
+                    </code>
+                </pre>
+            </div>
+        </article>
+
+        <footer>
+            <div class= "github"><a href="https://github.com/ADziakon"> <img src="./image/github.png" width = "30" height="30" alt="my_github"> My GITHub</a></div>
+            <div class="copy"><p>&copy;2021</p></div>
+            <div class="rsschool">  <a href="https://rs.school/js/"> <img src="./image/rs_school_js.svg" width = "80" height="80" alt="rs_school_js"></a></div>
+        </footer>
+    </main>
+
+</body>
+
+
+</html>
